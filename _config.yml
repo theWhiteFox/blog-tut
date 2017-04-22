@@ -18,10 +18,10 @@ avatar: https://avatars3.githubusercontent.com/u/3177131?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:  
   email: ste@thewhitefox.ninja
-  github: https://github.com/theWhiteFox
-  linkedin: https://www.linkedin.com/in/thewhitefox/
+  github: theWhiteFox
+  linkedin: in/thewhitefox/
   twitter: steTheWhiteFox
-  stackoverflow: http://stackoverflow.com/users/5619088/thewhitefox?tab=profile
+  stackoverflow: users/5619088/thewhitefox?tab=profile
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
